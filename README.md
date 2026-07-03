@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [3620-network-recovery-pathways](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0583-delete-operation-for-two-strings) |
 ## Math
 |  |
@@ -44,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
