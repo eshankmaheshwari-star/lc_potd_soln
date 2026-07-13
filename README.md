@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0132-palindrome-partitioning-ii) |
+| [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
