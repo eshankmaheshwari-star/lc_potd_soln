@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
+| [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1043-partition-array-for-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3534-path-existence-queries-in-a-graph-ii) |
