@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0132-palindrome-partitioning-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
 |  |
@@ -184,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
