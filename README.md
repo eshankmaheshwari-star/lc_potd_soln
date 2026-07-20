@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0583-delete-operation-for-two-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
