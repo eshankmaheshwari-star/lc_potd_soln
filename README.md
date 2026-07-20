@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1043-partition-array-for-maximum-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1043-partition-array-for-maximum-sum) |
+| [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
