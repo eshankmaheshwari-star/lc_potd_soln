@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
