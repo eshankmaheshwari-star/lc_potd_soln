@@ -4,12 +4,9 @@ public:
         int original = 0;
         for(char c : s)
             original += (c == '1');
-
         s = "1" + s + "1";
-
         int n = s.size();
         int ans = original;
-
         for(int i = 1; i < n - 1; i++) {
             if(s[i] == '1' && s[i - 1] == '0') {
                 int j = i;
@@ -36,7 +33,6 @@ public:
                 i = j - 1;
             }
         }
-
         return ans;
     }
 };
