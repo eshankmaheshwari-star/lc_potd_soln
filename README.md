@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1043-partition-array-for-maximum-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1043-partition-array-for-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1043-partition-array-for-maximum-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1043-partition-array-for-maximum-sum) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
