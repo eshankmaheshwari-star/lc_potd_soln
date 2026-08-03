@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1043-partition-array-for-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -249,4 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
