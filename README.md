@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
+| [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1043-partition-array-for-maximum-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
