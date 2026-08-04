@@ -41,6 +41,12 @@ public:
         //         if (mp[0] > 0)
         //             time += (n + 1 - rlx);
         //     }
-        return time;
+        //return time;
+        int mx= *max_element(mp.begin(),mp.end());
+        int cnt=0;
+        for(int x:mp){
+            if(x==mx) cnt++;
+        }
+        return max((int)t.size(), (mx - 1) * (n + 1) + cnt);
     }
 };
