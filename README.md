@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1106-parsing-a-boolean-expression](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1106-parsing-a-boolean-expression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
+| [1106-parsing-a-boolean-expression](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1106-parsing-a-boolean-expression](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
