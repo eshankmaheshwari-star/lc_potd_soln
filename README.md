@@ -276,4 +276,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
