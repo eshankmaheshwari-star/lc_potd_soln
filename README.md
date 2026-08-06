@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0098-validate-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -281,13 +282,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
