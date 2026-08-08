@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
