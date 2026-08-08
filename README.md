@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0098-validate-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
