@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0877-stone-game) |
+| [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
