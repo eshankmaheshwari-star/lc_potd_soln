@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0132-palindrome-partitioning-ii) |
 | [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0282-expression-add-operators) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 | [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 | [0207-course-schedule](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
