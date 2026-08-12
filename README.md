@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0877-stone-game) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 | [0207-course-schedule](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
