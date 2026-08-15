@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [3620-network-recovery-pathways](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1301-number-of-paths-with-max-score) |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -261,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -283,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -413,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
