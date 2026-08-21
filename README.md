@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 | [0621-task-scheduler](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2685-count-the-number-of-complete-components) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Bidirectional Search
 |  |
 | ------- |
