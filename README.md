@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
