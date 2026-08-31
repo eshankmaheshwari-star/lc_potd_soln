@@ -457,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
