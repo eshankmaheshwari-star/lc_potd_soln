@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0131-palindrome-partitioning) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1106-parsing-a-boolean-expression) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
