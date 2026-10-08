@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1106-parsing-a-boolean-expression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0085-maximal-rectangle) |
 | [0856-score-of-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
@@ -478,4 +480,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
