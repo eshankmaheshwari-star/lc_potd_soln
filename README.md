@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
