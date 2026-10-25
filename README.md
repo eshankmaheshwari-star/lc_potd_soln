@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2518-number-of-great-partitions) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3320-count-the-number-of-winning-sequences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/eshankmaheshwari-star/lc_potd_soln/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
